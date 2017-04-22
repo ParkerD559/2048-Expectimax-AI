@@ -2,7 +2,7 @@
 
 Requires python 2.7 and Tkinter. To run program without Python, download dist/game/ and run game.exe. Use --help to see relevant command arguments.
 
-# To run with Expectimax Agent w/ depth=2 and goal of 2048:
+## To run with Expectimax Agent w/ depth=2 and goal of 2048:
 ```python game.py -a Expectimax```
 or
 ```game.exe -a Expectimax```
