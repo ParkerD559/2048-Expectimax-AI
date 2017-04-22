@@ -1,0 +1,98 @@
+---- AGENT 0
+WEIGHTS
+1: 18.992
+2: 13.959
+3: 7.05
+4: 0.967
+5: -0.682
+RESULTS
+---- GAME 0
+Lose: 27582
+Largest: 2048
+---- GAME 1
+Lose: 12382
+Largest: 1024
+---- GAME 2
+Lose: 16254
+Largest: 1024
+---- GAME 3
+Lose: 27774
+Largest: 2048
+---- GAME 4
+Lose: 16186
+Largest: 1024
+---- GAME 5
+Lose: 13838
+Largest: 1024
+---- GAME 6
+Lose: 11010
+Largest: 1024
+---- GAME 7
+Lose: 16030
+Largest: 1024
+---- GAME 8
+Lose: 25310
+Largest: 2048
+---- GAME 9
+Lose: 9374
+Largest: 512
+---- GAME 10
+Lose: 32394
+Largest: 2048
+---- GAME 11
+Lose: 12846
+Largest: 1024
+---- GAME 12
+Lose: 8062
+Largest: 512
+---- GAME 13
+Lose: 27634
+Largest: 2048
+---- GAME 14
+Lose: 12526
+Largest: 1024
+---- GAME 15
+Lose: 16554
+Largest: 1024
+---- GAME 16
+Lose: 14490
+Largest: 1024
+---- GAME 17
+Lose: 11758
+Largest: 1024
+---- GAME 18
+Lose: 12658
+Largest: 1024
+---- GAME 19
+Lose: 28046
+Largest: 2048
+---- GAME 20
+Lose: 14226
+Largest: 1024
+---- GAME 21
+Lose: 7822
+Largest: 512
+---- GAME 22
+Lose: 7642
+Largest: 512
+---- GAME 23
+Lose: 23738
+Largest: 2048
+---- GAME 24
+Lose: 9082
+Largest: 512
+---- GAME 25
+Lose: 16702
+Largest: 1024
+---- GAME 26
+Lose: 16510
+Largest: 1024
+---- GAME 27
+Lose: 14642
+Largest: 1024
+---- GAME 28
+Lose: 7218
+Largest: 512
+---- GAME 29
+Lose: 23534
+Largest: 2048

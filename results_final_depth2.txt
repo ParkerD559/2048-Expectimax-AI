@@ -1,0 +1,99 @@
+---- AGENT 0
+WEIGHTS
+1: 18.992
+2: 13.959
+3: 7.05
+4: 0.967
+5: -0.682
+RESULTS
+---- GAME 0
+Lose: 33294
+Largest: 2048
+---- GAME 1
+Lose: 15746
+Largest: 1024
+---- GAME 2
+Lose: 35254
+Largest: 2048
+---- GAME 3
+Win: 45450
+Largest: 4096
+---- GAME 4
+Lose: 17358
+Largest: 1024
+---- GAME 5
+Lose: 16602
+Largest: 1024
+---- GAME 6
+Lose: 35598
+Largest: 2048
+---- GAME 7
+Lose: 35486
+Largest: 2048
+---- GAME 8
+Lose: 28074
+Largest: 2048
+---- GAME 9
+Lose: 14354
+Largest: 1024
+---- GAME 10
+Lose: 16802
+Largest: 1024
+---- GAME 11
+Lose: 32438
+Largest: 2048
+---- GAME 12
+Lose: 15578
+Largest: 1024
+---- GAME 13
+Lose: 28174
+Largest: 2048
+---- GAME 14
+Lose: 15118
+Largest: 1024
+---- GAME 15
+Lose: 16898
+Largest: 1024
+---- GAME 16
+Lose: 33306
+Largest: 2048
+---- GAME 17
+Lose: 33014
+Largest: 2048
+---- GAME 18
+Lose: 16190
+Largest: 1024
+---- GAME 19
+Lose: 33122
+Largest: 2048
+---- GAME 20
+Lose: 33150
+Largest: 2048
+---- GAME 21
+Lose: 16606
+Largest: 1024
+---- GAME 22
+Lose: 28558
+Largest: 2048
+---- GAME 23
+Win: 45722
+Largest: 4096
+---- GAME 24
+Win: 45086
+Largest: 4096
+---- GAME 25
+Lose: 16134
+Largest: 1024
+---- GAME 26
+Lose: 37046
+Largest: 2048
+---- GAME 27
+Lose: 33050
+Largest: 2048
+---- GAME 28
+Win: 45434
+Largest: 4096
+---- GAME 29
+Lose: 36074
+Largest: 2048
+Won 4/30 Avg:45423
